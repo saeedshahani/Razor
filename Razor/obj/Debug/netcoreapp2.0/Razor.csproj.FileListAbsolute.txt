@@ -1,0 +1,11 @@
+C:\Users\saeed\OneDrive\Code\C#\Razor\Razor\bin\Debug\netcoreapp2.0\Razor.deps.json
+C:\Users\saeed\OneDrive\Code\C#\Razor\Razor\bin\Debug\netcoreapp2.0\Razor.runtimeconfig.json
+C:\Users\saeed\OneDrive\Code\C#\Razor\Razor\bin\Debug\netcoreapp2.0\Razor.runtimeconfig.dev.json
+C:\Users\saeed\OneDrive\Code\C#\Razor\Razor\bin\Debug\netcoreapp2.0\Razor.dll
+C:\Users\saeed\OneDrive\Code\C#\Razor\Razor\obj\Debug\netcoreapp2.0\Razor.csprojResolveAssemblyReference.cache
+C:\Users\saeed\OneDrive\Code\C#\Razor\Razor\obj\Debug\netcoreapp2.0\Razor.csproj.CoreCompileInputs.cache
+C:\Users\saeed\OneDrive\Code\C#\Razor\Razor\obj\Debug\netcoreapp2.0\Razor.AssemblyInfoInputs.cache
+C:\Users\saeed\OneDrive\Code\C#\Razor\Razor\obj\Debug\netcoreapp2.0\Razor.AssemblyInfo.cs
+C:\Users\saeed\OneDrive\Code\C#\Razor\Razor\bin\Debug\netcoreapp2.0\Razor.pdb
+C:\Users\saeed\OneDrive\Code\C#\Razor\Razor\obj\Debug\netcoreapp2.0\Razor.dll
+C:\Users\saeed\OneDrive\Code\C#\Razor\Razor\obj\Debug\netcoreapp2.0\Razor.pdb
